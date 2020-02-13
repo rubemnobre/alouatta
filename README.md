@@ -1,0 +1,3 @@
+# alouatta
+A análise populacional dos animais do gênero Alouatta, conhecidos como Guaribas ou Bugios através do método mais comum atualmente é muito complexa, apresentando dificuldades para as instituições responsáveis pela vacinação contra a Febre Amarela, pois, como estes são os hospedeiros do vírus4 no meio silvestre, o monitoramento desses animais é essencial para o entendimento do deslocamento da doença através dos corredores ecológicos do Brasil. 
+O objetivo deste trabalho é desenvolver um sistema baseado em análise acústica populacional que permita a automação do processo de aferimento das populações dos animais desse gênero. É esperado também que a base tecnológica seja versátil e possibilite o estudo de populações de outros animais. 
