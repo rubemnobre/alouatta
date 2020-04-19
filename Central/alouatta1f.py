@@ -85,5 +85,5 @@ while 1:
                                if val > 600 and val < 1250: #checks if the amplitude peak is in the expected frequency range for the purpose of the project
                             	       print("macaco!")
 									   #run the new.py script that logs the detection to a .txt file, the second argument indicates the data origin in the log
-                                       subprocess.run(["python", "./new.py", "musa"]) #you may have to put in the whole path to run this in windows
+                            	       subprocess.run(["python", "./new.py", "musa"]) #you may have to put in the whole path to run this in windows
 	prevBufferSize = arduino.in_waiting
