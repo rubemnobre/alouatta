@@ -1,5 +1,5 @@
 # Alouatta
-Final project for my formation as an electronics technician at Fundação Matias Machline in Manaus, Brazil.
+Final project for my formation as an electronics technician at Fundação Matias Machline in Manaus, Brazil.  
 Made with Renata Moraes, Leticia Feleol, Sandiego de Moraes (Supervisor).
 
 ## Hardware considerations
